@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Snow",
+      "email": "js@a.it",
+      "age": 30
+    },
+    {
+      "id": "2",
+      "name": "John Constantine",
+      "email": "jc@a.it",
+      "age": 70
+    },
+    {
+      "id": "3",
+      "name": "John Mayer",
+      "email": "jm@a.it",
+      "age": 60
+    },
+    {
+      "id": "3",
+      "name": "Paul Pierce",
+      "email": "pp@a.it",
+      "age": 35
+    },
+    {
+      "id": "4",
+      "name": "Paul Newman",
+      "email": "pn@a.it",
+      "age": 65
+    },
+    {
+      "id": "5",
+      "name": "John Cena",
+      "email": "jc@a.it",
+      "age": 40
+    },
+    {
+      "name": "John Frusciante",
+      "email": "j.fruscinate@gmail.com",
+      "age": 47,
+      "id": "r1y7XWZDZ"
+    }
+  ]
+}
