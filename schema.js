@@ -1,4 +1,5 @@
 const axios = require('axios');
+
 const {
     // import from GraphQL all the object types that we will work with
     GraphQLObjectType,
@@ -91,7 +92,7 @@ const mutation = new GraphQLObjectType({
 			}
 		}
 	}
-})
+});
 
 module.exports = new GraphQLSchema({
 		query: RootQuery,
